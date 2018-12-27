@@ -1,9 +1,9 @@
 {
   "projects": {
-    "default": "ajonp-hosting-lessons"
+    "default": "ajonp-lesson-8"
   },
   "targets": {
-    "ajonp-hosting-lessons": {
+    "ajonp-lesson-8": {
       "hosting": {
         "ajonp-lesson-8-hugo": [
           "ajonp-lesson-8-hugo"
