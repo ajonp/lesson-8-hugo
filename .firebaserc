@@ -5,8 +5,8 @@
   "targets": {
     "ajonp-lesson-8": {
       "hosting": {
-        "ajonp-lesson-8-hugo": [
-          "ajonp-lesson-8-hugo"
+        "ajonp-lesson-8": [
+          "ajonp-lesson-8"
         ]
       }
     }
